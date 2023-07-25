@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+  <div id="game-container">
+    <div id="game-info">
+      <h1>Scary Maze</h1>
+      <p>Muevete por el laberinto<br> para comer todo lo que puedas<br> evitando tu propia cola.<br> ¡Y supera tu propio SCORE!</p>
+      <h2>Controles</h2>
+      <p>W: Mover hacia arriba</p>
+      <p>A: Mover hacia la izquierda</p>
+      <p>S: Mover hacia abajo</p>
+      <p>D: Mover a la derecha</p>
+      <p>Espacio: Pausar/Reanudar el juego</p>
+    </div>
+
+    <div id="game-board"></div>
+
+    <div id="status-bar">
+      <div id="timer">0s</div>
+      <div id="score">Score: 0</div>
+    </div>
+  </div>
+  
+  <div id="game-over" style="display: none;">
+    Game Over! Your final score is <span id="final-score"></span>.
+    <button id="restart-btn">Restart</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
