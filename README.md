@@ -15,7 +15,7 @@ Weed Snake es un juego web interactivo desarrollado en JavaScript, HTML y CSS. E
 
 ## 🚀 ¿Cómo empezar?
 
-Para probar Weed Snake, simplemente clona este repositorio en tu máquina local y abre el archivo `index.html` en tu navegador. También puedes probar el juego directamente a través de este [enlace]([https://jcamela.github.io/Mini_Snake/]).
+Para probar Weed Snake, simplemente clona este repositorio en tu máquina local y abre el archivo `index.html` en tu navegador. También puedes probar el juego directamente a través de este [Project Link](https://jcamela.github.io/Snake-Inkor/).
 
 ## 💻 Tecnologías utilizadas
 
